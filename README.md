@@ -33,5 +33,4 @@ A comprehensive, user-friendly housing society management Android app which lets
 <li>Send Email to heavily defaulting user</li>
 </ul>
 
-
-
+View app screenshots in uploaded files.
